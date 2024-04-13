@@ -23,6 +23,7 @@ public class operator2 {
     int b;
     b = a++ + ++a + a-- ;
     System.out.println(a);
+    System.out.println(b);
 
     }
 }
