@@ -8,10 +8,10 @@ public class array4 {
                            {"vedu"},
                            {"kalpu","kiwi","jems"}};
 
-                           for(int i=0; i<=4; i++){
-                            for(int j=0; j<num[i].length;j++){
-                                System.out.print(num[i][j] +" ");
-                            }System.out.println();
-                           }
+            for(int i=0; i<=4; i++){
+                for(int j=0; j<num[i].length;j++){
+                    System.out.print(num[i][j] +" ");
+                    }System.out.println();
+      }
     }
 }
