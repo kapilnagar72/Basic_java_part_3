@@ -140,4 +140,54 @@ Custom Patterns: These are patterns that you design for specific purposes, such 
 
 In Java, patterns are often created using loops (such as for loops, while loops, or do-while loops) and conditional statements (such as if statements) to control the arrangement and repetition of characters or symbols.
 
-Here's a simple example of printing a geometric pattern, a triangle of asterisks, using nested loops:
+ 
+    ** Arrays **
+
+    an array is a collection of similar type of elements which has contiguous memory location.
+
+Java array is an object which contains elements of a similar data type. Additionally, The elements of an array are stored in a contiguous memory location. It is a data structure where we store similar elements. We can store only a fixed set of elements in a Java array.
+
+Array in Java is index-based, the first element of the array is stored at the 0th index, 2nd element is stored on 1st index and so on.
+
+
+There are two types of array.
+
+Single Dimensional Array
+Multidimensional Array
+
+For-each Loop for Java Array
+We can also print the Java array using for-each loop. The Java for-each loop prints the array elements one by one. It holds an array element in a variable, then executes the body of the loop.
+
+          
+          ** String **
+
+Java String class provides a lot of methods to perform operations on strings such as compare(), concat(), equals(), split(), length(), replace(), compareTo(), intern(), substring() etc.
+
+What is String in Java?
+Generally, String is a sequence of characters. But in Java, string is an object that represents a sequence of characters. The java.lang.String class is used to create a string object.
+
+How to create a string object?
+There are two ways to create String object:
+
+By string literal
+By new keyword
+
+Immutable String in Java
+A String is an unavoidable type of variable while writing any application program. String references are used to store various attributes like username, password, etc. In Java, String objects are immutable. Immutable simply means unmodifiable or unchangeable.
+
+Once String object is created its data or state can't be changed but a new String object is created.
+
+Java String compare
+java string comparison
+We can compare String in Java on the basis of content and reference.
+
+It is used in authentication (by equals() method), sorting (by compareTo() method), reference matching (by == operator) etc.
+
+There are three ways to compare String in Java:
+
+By Using equals() Method
+By Using == Operator
+By compareTo() Method
+
+
+
