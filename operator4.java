@@ -4,7 +4,7 @@ public class operator4 {
     public static void main(String[] args) {
         int a = 10;
         int b = 20;
-        int c = 30;
+        //int c = 30;
 
         //     System.out.println(b == c);  // 1 type used direct print 
         //     System.out.println(c==b);  
