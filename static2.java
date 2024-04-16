@@ -17,6 +17,7 @@ class formar {
     }
     void input()
     {
+        @SuppressWarnings("resource")
         Scanner sc = new Scanner(System.in);
         System.out.println("please enter the loan amount ");
         pa = sc.nextInt();
