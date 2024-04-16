@@ -1,5 +1,5 @@
 package Basic_java_part_3;
-
+// Hierarchical Inheritance
 
 class animal {       // parent class
     void sleep() {
