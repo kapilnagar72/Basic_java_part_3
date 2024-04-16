@@ -1,5 +1,6 @@
 package Basic_java_part_3;
 
+//Multilevel Inheritance
 class animal { // parent class
     void sleep() {
         System.out.println("animal needs sleeps");
